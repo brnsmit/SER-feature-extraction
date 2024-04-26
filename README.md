@@ -16,3 +16,4 @@ DATASETS:
 
 - emoUERJ: https://zenodo.org/records/5427549
 
+In the code `SER_feature_extraction_emoUERJ.ipynb`, its functionality is demonstrated using the emoUERJ dataset. To apply the process to other datasets, simply replace the dataset path in `data_path = '/content/drive/MyDrive/.../'`.
